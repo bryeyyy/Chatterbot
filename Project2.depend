@@ -32,3 +32,23 @@
 	<windows.h>
 	<fstream>
 
+1664533877 source:d:\bryan\desktop\chatterbot\learner.cpp
+	"learner.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1422942908 d:\bryan\desktop\chatterbot\learner.h
+	<iostream>
+	<fstream>
+	"voice.h"
+
+1422942910 d:\bryan\desktop\chatterbot\voice.h
+	<iostream>
+
+1664534915 source:d:\bryan\desktop\chatterbot\voice.cpp
+	"voice.h"
+	<iostream>
+	<windows.h>
+	<fstream>
+
