@@ -1,0 +1,14 @@
+exit
+return to main menu
+open hr report
+start D:/bryan/Desktop/chatbot/memory/hr_report
+open marketing report
+start D:bryan/Desktop/chatbot/memory/it_report
+open oa report
+start D:/bryan/Desktop/chatbot/memory/market_report
+open it report
+start D:/bryan/Desktop/chatbot/memory/oa_report
+open codeblocks
+start c:\programdata\microsoft\windows\start menu\programs\codeblocks
+open instagram
+start https://www.instagram.com/
