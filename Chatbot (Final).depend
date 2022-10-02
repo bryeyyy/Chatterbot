@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1664622009 source:d:\bryan\desktop\project\project2\learner.cpp
+	"learner.h"
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+
+1664609231 d:\bryan\desktop\project\project2\learner.h
+	<iostream>
+	<fstream>
+	"voice.h"
+
+1422942910 d:\bryan\desktop\project\project2\voice.h
+	<iostream>
+
+1664622611 source:d:\bryan\desktop\project\project2\main.cpp
+	<iostream>
+	"learner.h"
+	<conio.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<iomanip>
+	<fstream>
+
+1664534915 source:d:\bryan\desktop\project\project2\voice.cpp
+	"voice.h"
+	<iostream>
+	<windows.h>
+	<fstream>
+

@@ -32,11 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Voice.cpp" />
-		<Unit filename="Voice.h" />
-		<Unit filename="learner.cpp" />
-		<Unit filename="learner.h" />
-		<Unit filename="main.cpp" />
+		<Unit filename="Project/Project2/Voice.cpp" />
+		<Unit filename="Project/Project2/Voice.h" />
+		<Unit filename="Project/Project2/learner.cpp" />
+		<Unit filename="Project/Project2/learner.h" />
+		<Unit filename="Project/Project2/main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
